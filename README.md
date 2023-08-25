@@ -1,6 +1,6 @@
 I am Kevin Opinda,
 I'm interested in learning Data Science and software engineering
-- 💞️ Resource sharing will be highly appreciated
+Resource sharing will be highly appreciated
 - 📫 Reach me through- opindak25@gmail.com
 
 <!---
